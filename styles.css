@@ -1,0 +1,56 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 8rem;
+  color: red;
+}
+
+p {
+  font-size: 2rem;
+  color: white;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+  padding-bottom: 30px;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+}
+
+button {
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: red;
+  color: white;
+}
+
+button:hover {
+  background-color: white;
+  color: red;
+}
+
